@@ -30,7 +30,7 @@ COMPILER ?= ido
 ifeq ($(TARGET_N64),0)
 
   NON_MATCHING := 1
-  GRUCODE := f3dex2e
+  GRUCODE := LeddaZ
   TARGET_WINDOWS := 0
   ifeq ($(TARGET_WEB),0)
     ifeq ($(TARGET_N3DS),0)
